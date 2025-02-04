@@ -158,5 +158,3 @@ Este projeto adiciona o **Kibana** para visualizar os logs do **NGINX** de forma
    ```
 
 Agora seu ambiente está pronto para observabilidade! 🚀🔥
-
-# lab-nginx-fluentbit-elastic-kibana-in-docker
