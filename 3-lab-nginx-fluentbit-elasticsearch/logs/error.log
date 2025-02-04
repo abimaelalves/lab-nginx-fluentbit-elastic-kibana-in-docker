@@ -1,0 +1,1 @@
+2025/02/04 17:08:27 [error] 29#29: *2 open() "/usr/share/nginx/html/sadsad" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /sadsad HTTP/1.1", host: "localhost:8082"

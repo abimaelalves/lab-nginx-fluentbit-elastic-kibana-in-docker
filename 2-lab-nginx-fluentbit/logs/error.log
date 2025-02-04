@@ -1,0 +1,2 @@
+2025/02/04 16:56:01 [error] 29#29: *3 open() "/usr/share/nginx/html/asd" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /asd HTTP/1.1", host: "localhost:8081"
+2025/02/04 16:56:13 [error] 29#29: *4 open() "/usr/share/nginx/html/asd" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /asd HTTP/1.1", host: "localhost:8081"

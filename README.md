@@ -3,6 +3,7 @@
 ## 📌 Descrição
 Este projeto cria um contêiner Docker com uma imagem customizada do **NGINX**. Ele exibe uma página HTML simples e armazena logs de acesso e erro.
 
+
 ## 📂 Estrutura do Projeto
 ```
 1-lab-nginx/
